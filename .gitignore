@@ -1,0 +1,13 @@
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+
+Session.vim
+Sessionx.vim
+
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Temporary
+.netrwhist
+*~
